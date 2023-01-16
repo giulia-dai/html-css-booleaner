@@ -1,0 +1,23 @@
+header{
+    background-color: dodgerblue;
+    background-image: url(/Users/giuliadai/Documents/Boolean/html-css-booleaner/imagini/pattern.png);
+    background-size: contain;
+    
+}
+img{
+    width: 250px;
+    height: 100px;
+}
+
+.sottotitolo{
+    font-size: 18px;
+    color: grey;
+}
+.blu{
+    color: dodgerblue;
+}
+
+.data{
+    font-size: 12px;
+    color: grey;
+}
