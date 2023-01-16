@@ -9,6 +9,10 @@ img{
     height: 100px;
 }
 
+h1{
+    font-size: 50px;
+}
+
 .sottotitolo{
     font-size: 18px;
     color: grey;
@@ -31,3 +35,54 @@ img{
 .sotto-foto{
     font-size: 12px;
 }
+
+
+/*
+table{
+    width: 500px;}  */
+
+thead{
+    color: white;
+    background-color: rgb(72, 159, 216);
+}
+
+.celeste{
+    background-color: rgba(107, 210, 233, 0.40);
+}
+
+.fine{
+    color: grey;
+}
+
+.last-photo{
+    width: 200px;
+    height: 200px;
+}
+
+.grey{
+    color: grey;
+}
+.testo_1{
+     
+    background-image: url(/Users/giuliadai/Documents/Boolean/html-css-booleaner/imagini/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 260px;
+    width: 240px;
+    height: 150px;
+}
+.testo_2{
+     background-image: url(/Users/giuliadai/Documents/Boolean/html-css-booleaner/imagini/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 260px;
+    width: 240px;
+    height: 150px;
+}
+
