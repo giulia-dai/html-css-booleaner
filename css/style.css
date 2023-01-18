@@ -1,6 +1,6 @@
 header{
     background-color: dodgerblue;
-    background-image: url(/Users/giuliadai/Documents/Boolean/html-css-booleaner/imagini/pattern.png);
+    background-image: url(../imagini/pattern.png);
     background-size: contain;
     
 }
@@ -64,7 +64,7 @@ thead{
 }
 .testo_1{
      
-    background-image: url(/Users/giuliadai/Documents/Boolean/html-css-booleaner/imagini/monitor.jpg);
+    background-image: url(../imagini/monitor.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     color: white;
@@ -75,7 +75,7 @@ thead{
     height: 150px;
 }
 .testo_2{
-     background-image: url(/Users/giuliadai/Documents/Boolean/html-css-booleaner/imagini/graph.jpg);
+     background-image: url(../imagini/graph.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     color: white;
